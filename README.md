@@ -1,6 +1,7 @@
 # neet-tokyo-GAN
 
-Generating Interview Images of [NEET Tokyo](https://www.youtube.com/c/neet-tokyo) by GAN
+Generating Interview Images of [NEET Tokyo](https://www.youtube.com/c/neet-tokyo) by GAN  
+I'm using [odegeasslbc](https://github.com/odegeasslbc/FastGAN-pytorch)'s FastGAN code.
 
 ## Usage
 1. create datasets using youtube_api.ipynb
